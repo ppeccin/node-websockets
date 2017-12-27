@@ -31,6 +31,6 @@ function WSServer(server) {
         });
     };
 
-    console.log('WebSocket server running on port: ' + server.get("port"));
+    console.log('WebSocket server running...');
 
 }
